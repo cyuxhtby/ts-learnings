@@ -1,0 +1,14 @@
+# Node.js and TypeScript
+node_modules/
+dist/
+*.js
+*.js.map
+
+# OS-specific
+.DS_Store
+
+# Environment configuration
+.env
+
+# npm
+package-lock.json
